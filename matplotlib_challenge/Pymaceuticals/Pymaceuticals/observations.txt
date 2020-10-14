@@ -1,0 +1,10 @@
+For the capomulin scatter plot it is evident that as the weight of the mouse increased the average tumor volume tended to increase. 
+
+The results of capomulin in the line chart also show that when mice were treated with capomulin their tumor volume decreased over time. 
+Overall the tumor volume line tends to decrease more on average than increase and shows us a large rate decrease in tumor volume after the 
+8th timepoint tick.
+This shows that capomulin is successful in treating tumors in mice.
+
+With our boxplot we can see that the medians for Infubinol and Ceftamin are almost identical when it comes to tumor volume. This gives us a 
+more useful dataset to read into when compared to capomulin and ramicane.
+
